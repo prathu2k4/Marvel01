@@ -2,7 +2,7 @@
 
 A simple weather application that fetches real-time weather data using [WeatherAPI](https://www.weatherapi.com/) and displays weather conditions in an interactive UI.
 
-![Weather App Preview](https://via.placeholder.com/800x400?text=Weather+App+Preview)
+![Weather App Preview](https://github.com/prathu2k4/Marvel01/blob/16b7f2e98b6ee51a634548c092e1dc2e0201c194/Api/Images/search.png)
 
 ## 🚀 Features
 ✅ Search weather details by **city name**  
@@ -53,4 +53,4 @@ Simply open `index.html` in your web browser.
 ## 📷 Screenshots
 | Search Weather | Weather Details |
 |---|---|
-| ![Search Weather](https://via.placeholder.com/400x250?text=Enter+City) | ![Weather Details](https://via.placeholder.com/400x250?text=Weather+Info) |
+| ![Search Weather](https://github.com/prathu2k4/Marvel01/blob/16b7f2e98b6ee51a634548c092e1dc2e0201c194/Api/Images/main.png) | ![Weather Details](https://github.com/prathu2k4/Marvel01/blob/16b7f2e98b6ee51a634548c092e1dc2e0201c194/Api/Images/search.png) |
