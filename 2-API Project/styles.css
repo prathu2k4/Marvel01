@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: center; /* Vertically center */
+    background-image: url('bg.jpg'); /* Set your local background */
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    width: 90%;
+    max-width: 600px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    background-color: rgba(255, 255, 255, 0.3); /* Semi-transparent background */
+    backdrop-filter: blur(10px);
+}
+
+/* Input and button styling */
+input {
+    width: 80%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #dbd7d7;
+    background: rgba(255, 255, 255, 0.3);
+    color: rgb(0, 0, 0);
+}
+
+input::placeholder {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+button {
+    padding: 12px 18px;
+    border: none;
+    background-color: #ff9800;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #e68900;
+}
+
+/* Weather information box */
+.weather-container {
+    display: none;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(5px);
+}
+
+/* Weather text formatting */
+h1 {
+    font-size: 26px;
+    color: #000000; 
+}
+
+h2 {
+    font-size: 22px;
+    color: #000000; 
+}
+
+p {
+    font-size: 18px;
+    color: rgb(79, 76, 76);
+}
+
+.details {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    font-size: 16px;
+}
