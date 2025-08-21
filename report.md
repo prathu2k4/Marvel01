@@ -17,3 +17,5 @@ A **Weather Web Application** was developed that fetches and displays real-time 
 *  **Shows weather condition with an icon** (e.g., sunny, cloudy, rainy)
 *  **Fetches and displays the local time of the searched city**
 *  **Responsive, mobile-friendly design** for smooth user experience across devices
+
+#### [GitHub Repo](https://github.com/prathu2k4/Marvel01/tree/c436e8e96a9436bc34b6fb3cc600226148dd65f0/Api)
