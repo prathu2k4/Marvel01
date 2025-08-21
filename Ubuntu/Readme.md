@@ -2,6 +2,8 @@
 
 This document describes the steps to complete basic Linux command-line tasks.
 
+![Image 1](img1.jpg)
+![Image 2](img2.jpg)
 ---
 
 ## Steps
