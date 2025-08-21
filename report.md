@@ -36,7 +36,7 @@ A **Weather Web Application** was developed that fetches and displays real-time 
 In this task, I practiced basic Ubuntu command line operations. I created a folder named `test` and navigated into it using `cd`. Inside the folder, I created a blank file with the `touch` command and listed files using `ls`. I also generated 2600 folders with patterned names such as `M_1` `M_2` `M_3` and so on using loop commands. Finally, I concatenated two text files and displayed the combined output in the terminal. This task helped me become more familiar with essential Linux commands.
 
 
-#### [GitHub Repo]( https://github.com/prathu2k4/Marvel01/tree/main/Ubuntu )
+#### [GitHub Repo](https://github.com/prathu2k4/Marvel01/blob/main/4-Ubuntu%20Command%20Line)
 ---
 # Task 5: Kaggle Titanic ML Contest
 
