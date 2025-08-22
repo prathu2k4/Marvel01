@@ -94,9 +94,8 @@ In this task, I practiced basic Ubuntu command line operations. I created a fold
 #### [GitHub Repo](  )
 ---
 # Task 16: Datasheet Report
-
-
-#### [GitHub Repo](https://github.com/prathu2k4/Marvel01/tree/main/16-Datasheet%20Report)
+I have prepared a report on the **MQ135 gas sensor** by referring to its datasheet. The sensor is capable of detecting gases such as **ammonia, benzene, smoke, and CO₂**, with high sensitivity and a wide detection range. In my report, I have analyzed its **operating voltage, load resistance, and response time**, along with its applications in air quality monitoring. The findings were systematically studied and compiled to highlight the sensor’s working principle and performance.
+ Checkout the datasheets [here](https://github.com/prathu2k4/Marvel01/tree/main/16-Datasheet%20Report)
 ---
 # Task 17: Introduction to VR
 
