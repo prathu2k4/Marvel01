@@ -27,8 +27,9 @@ A **Weather Web Application** was developed that fetches and displays real-time 
 
 # Task 3: GitHub Workflows
 
+I familiarized myself with GitHub integrated workflows by learning how repositories and contributions are managed. I forked the given repository and successfully cloned it to my local system. I explored the existing issues, worked on the assigned task, and implemented the required changes. Finally, I committed and pushed my work to my forked repository, completing the task as instructed.
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/Screenshot%202025-08-24%20170101.png)
 
-#### [GitHub Repo](  )
 ---
 # Task 4: Ubuntu Command Line
 
