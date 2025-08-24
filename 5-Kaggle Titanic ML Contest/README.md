@@ -18,7 +18,6 @@ This repository contains my solution for the [Titanic: Machine Learning from Dis
 ├── new.ipynb          # Jupyter notebook with EDA, preprocessing, modeling, and submission
 ├── submission.csv      # Final submission file generated (Survived predictions)
 ├── README.md           # Documentation
-└── data/               # (Optional) Place train.csv and test.csv here
 ```
 
 ---
@@ -79,22 +78,5 @@ Download the dataset from [Kaggle Titanic dataset](https://www.kaggle.com/c/tita
 * **Validation Accuracy**: \~0.82122905
 * **Cross-validation Accuracy**: \~0.83615592
 * **Public Leaderboard Score**: **0.75598**
-
----
-
-## 🚀 How to Run
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/titanic-ml.git
-   cd titanic-ml
-   ```
-2. Launch Jupyter Notebook:
-
-   ```bash
-   jupyter notebook new.ipynb
-   ```
-3. Run all cells to reproduce results and generate `submission.csv`.
 
 ---
