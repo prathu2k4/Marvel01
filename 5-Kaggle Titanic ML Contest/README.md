@@ -22,6 +22,9 @@ This repository contains my solution for the [Titanic: Machine Learning from Dis
 
 ---
 
+
+![img](https://github.com/prathu2k4/Marvel01/blob/3ff4a34ed9ab82043153350733c6415bb7a30869/5-Kaggle%20Titanic%20ML%20Contest/Screenshot%202025-08-24%20174050.png)
+
 ## ⚙️ Setup & Requirements
 
 Install the required dependencies:
