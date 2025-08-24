@@ -42,7 +42,12 @@ In this task, I practiced basic Ubuntu command line operations. I created a fold
 # Task 5: Kaggle Titanic ML Contest
 
 
-#### [GitHub Repo](  )
+I participated in the **Kaggle Titanic: Machine Learning from Disaster** competition, where I implemented a predictive model using Python and XGBoost. Through this project, I learned essential steps such as feature engineering, handling categorical variables, and model evaluation. This contest also helped me practice preparing Kaggle-style submissions. Overall, the experience familiarized me with how the **Kaggle platform works** and improved my confidence in applying ML to real-world datasets.
+
+
+![img](https://github.com/prathu2k4/Marvel01/blob/3ff4a34ed9ab82043153350733c6415bb7a30869/5-Kaggle%20Titanic%20ML%20Contest/Screenshot%202025-08-24%20174050.png)
+
+#### [GitHub Repo](https://github.com/prathu2k4/Marvel01/tree/09cae321664a8abf4ef6f3921dc60edf33227188/5-Kaggle%20Titanic%20ML%20Contest)
 ---
 # Task 6: Pandas & Matplotlib
 
