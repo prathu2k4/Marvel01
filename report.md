@@ -57,7 +57,12 @@ I participated in the **Kaggle Titanic: Machine Learning from Disaster** competi
 # Task 7: Portfolio Webpage
 
 
-#### [GitHub Repo](  )
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4FR7iqKxlk?si=KnJjjVb1J8SCl3lB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+I have successfully completed the development of my personal portfolio website. The site includes sections for About, Skills, Projects, and Achievements, with smooth animations and responsive design. I implemented advanced features like a loading screen, dark/light theme toggle, smooth navigation, and parallax scroll effects.The website is fully responsive and designed to provide a modern, engaging user experience.
+
+#### [Link to webiste](https://portfolio-ptaurykne-prathu2k4s-projects.vercel.app/)
 ---
 # Task 8: Markdown Resource Article
 
