@@ -39,13 +39,16 @@ In this task, I practiced basic Ubuntu command line operations. I created a fold
 
 #### [GitHub Repo](https://github.com/prathu2k4/Marvel01/blob/main/4-Ubuntu%20Command%20Line)
 ---
-# Task 5: Kaggle Titanic ML Contest
+# Task 5: Linear Regression from Scratch
 
 
-I participated in the **Kaggle Titanic: Machine Learning from Disaster** competition, where I implemented a predictive model using Python and XGBoost. Through this project, I learned essential steps such as feature engineering, handling categorical variables, and model evaluation. This contest also helped me practice preparing Kaggle-style submissions. Overall, the experience familiarized me with how the **Kaggle platform works** and improved my confidence in applying ML to real-world datasets.
+I implemented Linear Regression from scratch using Gradient Descent on the California Housing Prices dataset. The model was trained without using ML libraries for optimization, ensuring a clear understanding of the underlying math.
+I compared my custom implementation against Scikit-learn’s LinearRegression, and both achieved identical performance (MSE: 0.7091, MAE: 0.6299, R²: 0.4589). The results confirm that gradient descent converges to the same solution as the analytical closed-form method. I also visualized the line of best fit along with the data points, validating the correctness of my model.
+This project strengthened my understanding of regression, error metrics, and optimization techniques.
 
 
-![img](https://github.com/prathu2k4/Marvel01/blob/3ff4a34ed9ab82043153350733c6415bb7a30869/5-Kaggle%20Titanic%20ML%20Contest/Screenshot%202025-08-24%20174050.png)
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/Screenshot%202025-09-02%20201657.png)
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/Screenshot%202025-09-02%20201710.png)
 
 #### [GitHub Repo](https://github.com/prathu2k4/Marvel01/tree/09cae321664a8abf4ef6f3921dc60edf33227188/5-Kaggle%20Titanic%20ML%20Contest)
 ---
