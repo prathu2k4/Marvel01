@@ -1,5 +1,7 @@
 # Task 1: 3D Printing
 
+![img]()
+
 ---
 
 # Task 2: API Project
@@ -28,7 +30,7 @@ A **Weather Web Application** was developed that fetches and displays real-time 
 # Task 3: GitHub Workflows
 
 I familiarized myself with GitHub integrated workflows by learning how repositories and contributions are managed. I forked the given repository and successfully cloned it to my local system. I explored the existing issues, worked on the assigned task, and implemented the required changes. Finally, I committed and pushed my work to my forked repository, completing the task as instructed.
-![img](https://github.com/prathu2k4/Marvel01/blob/main/images/Screenshot%202025-08-24%20170101.png)
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/git.png)
 
 ---
 # Task 4: Ubuntu Command Line
@@ -47,8 +49,8 @@ I compared my custom implementation against Scikit-learn’s LinearRegression, a
 This project strengthened my understanding of regression, error metrics, and optimization techniques.
 
 
-![img](https://github.com/prathu2k4/Marvel01/blob/main/images/Screenshot%202025-09-02%20201657.png)
-![img](https://github.com/prathu2k4/Marvel01/blob/main/images/Screenshot%202025-09-02%20201710.png)
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/lin_reg_1.png)
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/lin_reg_2.png)
 
 #### [GitHub Repo](https://github.com/prathu2k4/Marvel01/tree/09cae321664a8abf4ef6f3921dc60edf33227188/5-Kaggle%20Titanic%20ML%20Contest)
 ---
@@ -57,8 +59,8 @@ This project strengthened my understanding of regression, error metrics, and opt
 I have successfully completed the project "Decode Secret Image" using Python and Jupyter Notebook. The notebook demonstrates how to process images and extract hidden information using libraries such as NumPy, Matplotlib, and ImageIO. The decoding process was implemented step by step, making it easy to understand the working of image manipulation concepts. The project achieves its objective of revealing the hidden data embedded inside an image. This work enhances my understanding of image processing and secret data handling techniques.
 
 
-![img](https://github.com/prathu2k4/Marvel01/blob/main/images/Screenshot%202025-09-03%20083504.png)
-![img](https://github.com/prathu2k4/Marvel01/blob/main/images/Screenshot%202025-09-03%20083516.png)
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/puz_1.png)
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/Puz_2.png)
 
 
 #### [GitHub Repo](  )
@@ -84,36 +86,45 @@ I successfully created a Tinkercad account and explored its interface to underst
 
 
 [Tinker this](https://www.tinkercad.com/things/e2HLwF5XdLu-radar?sharecode=-zszX0JKhkxRweGwDwHHiQrtkyLY3I1YKk4SK4FsoyYvv)
+
 ![img](https://github.com/prathu2k4/Marvel01/blob/main/images/tinkercad.png)
+
 #### [GitHub Repo](  )
 ---
 # Task 10: DC Motor Speed Control
 
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/mot_2.jpg)
 
 #### [GitHub Repo](  )
 ---
 # Task 11: LED Toggle Using ESP32
 
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/esp_1.jpg)
 
 #### [GitHub Repo](  )
 ---
 # Task 12: Soldering Prerequisites
 
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/solder.jpg)
 
 #### [GitHub Repo](  )
 ---
 # Task 13: 555 Timer Multivibrator
 
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/555_1.jpg)
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/555_2.jpg)
 
 #### [GitHub Repo](  )
 ---
 # Task 14: Karnaugh Map Logic Circuit
 
+![img]()
 
 #### [GitHub Repo](  )
 ---
 # Task 15: Active Participation
 
+![img]()
 
 #### [GitHub Repo](  )
 ---
@@ -125,15 +136,18 @@ I have prepared a report on the **MQ135 gas sensor** by referring to its datashe
 ---
 # Task 17: Introduction to VR
 
+![img]()
 
 #### [GitHub Repo](  )
 ---
 # Task 18: Sad Servers (Linux Troubleshooting)
 
+![img]()
 
 #### [GitHub Repo](  )
 ---
 # Task 19: Web App – Resource Library
 
+![img]()
 
 #### [GitHub Repo](  )
