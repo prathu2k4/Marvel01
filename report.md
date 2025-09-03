@@ -2,6 +2,7 @@
 
 ![img]()
 
+#### [GitHub Repo](https://github.com/prathu2k4/Marvel01/tree/main/1-3D%20Printing)
 ---
 
 # Task 2: API Project
@@ -93,11 +94,15 @@ I successfully created a Tinkercad account and explored its interface to underst
 ---
 # Task 10: DC Motor Speed Control
 
+I successfully completed the task of speed control of a DC motor using an Arduino UNO and the L298N H-Bridge motor driver. A 5V BO motor was connected to the driver, and PWM signals were generated from the Arduino to vary the motor speed. By adjusting the PWM duty cycle through the program, I was able to achieve smooth control over the motor’s rotation. The setup was tested with different speed levels, and the motor responded accurately to the programmed inputs.
+
 ![img](https://github.com/prathu2k4/Marvel01/blob/main/images/mot_2.jpg)
 
 #### [GitHub Repo](  )
 ---
 # Task 11: LED Toggle Using ESP32
+
+I successfully completed the task of creating a standalone web server using the ESP32. The ESP32 was configured as an Access Point and hosted a web page that allows wireless control of an LED connected to GPIO2. Using the Arduino IDE, I set up the ESP32 board configuration and uploaded the program. The web interface was designed with Bootstrap and JavaScript for an interactive user experience. By clicking the ON and OFF buttons, I was able to toggle the LED state in real-time. This task helped me understand ESP32 networking, GPIO control, and web server programming.
 
 ![img](https://github.com/prathu2k4/Marvel01/blob/main/images/esp_1.jpg)
 
