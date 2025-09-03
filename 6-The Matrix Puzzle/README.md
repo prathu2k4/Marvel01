@@ -41,7 +41,6 @@ pip install -r requirements.txt
 
    ```bash
    git clone https://github.com/prathu2k4/Marvel01/tree/main/6-The%20Matrix%20Puzzle
-   cd decode-secret-image
    ```
 2. Launch Jupyter Notebook:
 
