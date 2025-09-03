@@ -33,7 +33,7 @@ I familiarized myself with GitHub integrated workflows by learning how repositor
 ---
 # Task 4: Ubuntu Command Line
 
-[![img](https://github.com/prathu2k4/Marvel01/blob/main/4-Ubuntu%20Command%20Line/img1.jpg)
+![img](https://github.com/prathu2k4/Marvel01/blob/main/4-Ubuntu%20Command%20Line/img1.jpg)
 In this task, I practiced basic Ubuntu command line operations. I created a folder named `test` and navigated into it using `cd`. Inside the folder, I created a blank file with the `touch` command and listed files using `ls`. I also generated 2600 folders with patterned names such as `M_1` `M_2` `M_3` and so on using loop commands. Finally, I concatenated two text files and displayed the combined output in the terminal. This task helped me become more familiar with essential Linux commands.
 
 
@@ -52,7 +52,13 @@ This project strengthened my understanding of regression, error metrics, and opt
 
 #### [GitHub Repo](https://github.com/prathu2k4/Marvel01/tree/09cae321664a8abf4ef6f3921dc60edf33227188/5-Kaggle%20Titanic%20ML%20Contest)
 ---
-# Task 6: Pandas & Matplotlib
+# Task 6: The Matrix Puzzle — Decode with NumPy & Reveal the Image
+
+I have successfully completed the project "Decode Secret Image" using Python and Jupyter Notebook. The notebook demonstrates how to process images and extract hidden information using libraries such as NumPy, Matplotlib, and ImageIO. The decoding process was implemented step by step, making it easy to understand the working of image manipulation and steganography concepts. The project achieves its objective of revealing the hidden data embedded inside an image. This work enhances my understanding of image processing and secret data handling techniques.
+
+
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/Screenshot%202025-09-03%20083504.png)
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/Screenshot%202025-09-03%20083516.png)
 
 
 #### [GitHub Repo](  )
@@ -73,8 +79,8 @@ I have successfully completed the development of my personal portfolio website. 
 #### [GitHub Repo](  )
 ---
 # Task 9: Tinkercad Circuit
-
-
+[Tinker this](https://www.tinkercad.com/things/e2HLwF5XdLu-radar?sharecode=-zszX0JKhkxRweGwDwHHiQrtkyLY3I1YKk4SK4FsoyYvv)
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/tinkercad.png)
 #### [GitHub Repo](  )
 ---
 # Task 10: DC Motor Speed Control
