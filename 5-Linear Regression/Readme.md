@@ -72,7 +72,7 @@ Scatter plot of test data with best-fit lines:
 * 🔴 Custom Gradient Descent
 * 🟢 Scikit-learn LinearRegression
 
-![img](https://github.com/prathu2k4/Marvel01/blob/main/images/Screenshot%202025-09-02%20202445.png)
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/lin_reg_op.png)
 
 ---
 
