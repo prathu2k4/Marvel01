@@ -54,7 +54,7 @@ This project strengthened my understanding of regression, error metrics, and opt
 ---
 # Task 6: The Matrix Puzzle — Decode with NumPy & Reveal the Image
 
-I have successfully completed the project "Decode Secret Image" using Python and Jupyter Notebook. The notebook demonstrates how to process images and extract hidden information using libraries such as NumPy, Matplotlib, and ImageIO. The decoding process was implemented step by step, making it easy to understand the working of image manipulation and steganography concepts. The project achieves its objective of revealing the hidden data embedded inside an image. This work enhances my understanding of image processing and secret data handling techniques.
+I have successfully completed the project "Decode Secret Image" using Python and Jupyter Notebook. The notebook demonstrates how to process images and extract hidden information using libraries such as NumPy, Matplotlib, and ImageIO. The decoding process was implemented step by step, making it easy to understand the working of image manipulation concepts. The project achieves its objective of revealing the hidden data embedded inside an image. This work enhances my understanding of image processing and secret data handling techniques.
 
 
 ![img](https://github.com/prathu2k4/Marvel01/blob/main/images/Screenshot%202025-09-03%20083504.png)
