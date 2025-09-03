@@ -78,7 +78,7 @@ I have successfully completed the development of my personal portfolio website. 
 ---
 # Task 8: Markdown Resource Article
 
-
+[link](https://github.com/prathu2k4/Marvel01/blob/main/8-Markdown%20Resource%20Article/Ethical%20Challenges%20in%20Engineering%20and%20Technology.md)
 #### [GitHub Repo](  )
 ---
 # Task 9: Tinkercad Circuit
