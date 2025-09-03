@@ -79,6 +79,10 @@ I have successfully completed the development of my personal portfolio website. 
 #### [GitHub Repo](  )
 ---
 # Task 9: Tinkercad Circuit
+
+I successfully created a Tinkercad account and explored its interface to understand the example circuits provided. I then designed and simulated a simple circuit using an ultrasonic sensor to measure the distance of an obstacle, displaying the results on the serial monitor. To extend this, I built a radar system by integrating a servo motor with the ultrasonic sensor. The servo motor sweeps the sensor across a range of angles, enabling wider area scanning. The ultrasonic sensor measures distances by emitting sound waves and detecting their echo time. The simulation successfully displayed distance readings, demonstrating effective object detection within the radar’s coverage area.
+
+
 [Tinker this](https://www.tinkercad.com/things/e2HLwF5XdLu-radar?sharecode=-zszX0JKhkxRweGwDwHHiQrtkyLY3I1YKk4SK4FsoyYvv)
 ![img](https://github.com/prathu2k4/Marvel01/blob/main/images/tinkercad.png)
 #### [GitHub Repo](  )
