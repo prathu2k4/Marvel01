@@ -32,8 +32,8 @@ This project demonstrates how to create a standalone web server with an **ESP32*
 
 2. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/esp32-led-toggle.git
-   cd esp32-led-toggle
+   git clone https://github.com/prathu2k4/Marvel01/11-LED%20Toggle%20Using%20ESP32.git
+   
 
 3. Open the code in Arduino IDE.
 

@@ -110,11 +110,15 @@ I successfully completed the task of creating a standalone web server using the 
 ---
 # Task 12: Soldering Prerequisites
 
+I have successfully completed this task under the supervision of the coordinator. I learned about the different soldering equipment available in the lab, including the soldering iron, solder wire, flux, and solder wick, along with their purposes and safe handling. I practiced using these tools to perform basic soldering on a perf board. As part of the exercise, I assembled and soldered a simple LED circuit, ensuring proper connections and functionality. The activity helped me gain confidence in handling soldering tools and understanding their applications.
+
 ![img](https://github.com/prathu2k4/Marvel01/blob/main/images/solder.jpg)
 
 #### [GitHub Repo](  )
 ---
 # Task 13: 555 Timer Multivibrator
+
+I designed and constructed a 555 timer-based astable multivibrator with a duty cycle of 60%. The circuit was assembled on a breadboard using appropriate resistors and a capacitor as per the design calculations. After powering the circuit, I connected the probes of the DSO to the output pin of the 555 timer. The waveform observed on the DSO confirmed the expected square wave with the calculated frequency and a duty cycle close to 60%.
 
 ![img](https://github.com/prathu2k4/Marvel01/blob/main/images/555_1.jpg)
 ![img](https://github.com/prathu2k4/Marvel01/blob/main/images/555_2.jpg)
@@ -129,7 +133,9 @@ I successfully completed the task of creating a standalone web server using the 
 ---
 # Task 15: Active Participation
 
-![img]()
+I have actively participated in the IEEE PES Student Congress conducted by BMS College of Engineering, Bengaluru on 22nd August 2025, organized by BMSCE IEEE PES & SC in collaboration with IEEE PES Bangalore Chapter. My involvement in this technical event allowed me to gain valuable insights and interact with peers and experts in the field. I am attaching the issued certificate of participation as proof of my attendance.
+
+![img](https://github.com/prathu2k4/Marvel01/blob/main/images/cer.png)
 
 #### [GitHub Repo](  )
 ---
