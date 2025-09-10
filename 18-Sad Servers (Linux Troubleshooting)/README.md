@@ -95,7 +95,7 @@ From interviews, we learn:
 Search the vehicles database:
 
 ```bash
-head vehicles | grep L337 > suspect_vehicles
+grep vehicles | grep L337 > suspect_vehicles
 ```
 
 ---
